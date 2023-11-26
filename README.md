@@ -10,4 +10,5 @@ El dataset que vamos a utilizar es el de Machine Learning mania, un dataset basa
 Videos:
 
 Enlace video 1: https://youtu.be/pFO1jcJfZ5I
+
 Enlace video 2: https://www.youtube.com/watch?v=4P5iz7uYpJo&ab_channel=ANDRESDARIOPE%C3%91AASPRILLA
